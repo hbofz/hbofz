@@ -1,4 +1,4 @@
-Senior at St. Olaf studying CS and quantitative economics. These days I mostly build AI agents.
+Studying CS and quant economics. These days I mostly build AI agents.
 
 | Area | What I've built |
 | --- | --- |
