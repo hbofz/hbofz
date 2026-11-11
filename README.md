@@ -1,4 +1,4 @@
-Studying CS and quant economics. These days I mostly build AI agents.
+Studying CS and quant economics. These days I mostly work on AI related projects.
 
 | Area | What I've built |
 | --- | --- |
